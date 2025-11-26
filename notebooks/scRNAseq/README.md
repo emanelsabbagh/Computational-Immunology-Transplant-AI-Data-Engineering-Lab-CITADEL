@@ -13,3 +13,7 @@ This folder contains notebooks for single-cell RNA sequencing analysis, includin
 These notebooks support the Immune Trajectory Atlas project and future single-cell transplant immunology analyses.
 
 All data are public and contain no PHI.
+
+## Available Notebooks
+
+- `01_pbmc3k_basic.ipynb` – PBMC3k workflow: QC, normalization, PCA, UMAP, Leiden clustering, and marker exploration (MS4A1, NKG7).
