@@ -30,3 +30,4 @@ As the lab grows, this page will include:
 
 For collaboration, questions, or ideas, please reach out via your preferred professional email  
 and include **"CITA Lab"** in the subject line.
+Eman.elsabbagh@Duke.edu
